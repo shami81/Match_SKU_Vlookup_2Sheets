@@ -30,7 +30,7 @@ This solution extracts item codes from SKUs and uses `VLOOKUP` to find correspon
 
 
 ## Example Results:
-| SKU                                | Extracted Item Code | Case Quantity |
+| SKU                                | Extracted Item Code | Matched Case Quantity |
 |------------------------------------|--------------------|--------------|
 | TB-37 - Kraft Window Treat Box    | TB-37             | 12           |
 | HM1213 Clear Acrylic Boxes        | HM1213            | 12           |
